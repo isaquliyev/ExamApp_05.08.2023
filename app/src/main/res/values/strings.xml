@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExamApp05_08</string>
+
+    <string name="fullName">Full Name</string>
+    <string name="email">E-mail</string>
+    <string name="enterEmail">Enter your e-mail here</string>
+    <string name="passwordHint">Place the password here</string>
+
+    <string name="warning1">At least 8 characters</string>
+    <string name="warning2">Both uppercase and lowercase characters</string>
+    <string name="warning3">At least one number or symbol</string>
+    <string name="checkBoxText">By continuing you accept our Privacy Policy and Term of Use</string>
+</resources>
